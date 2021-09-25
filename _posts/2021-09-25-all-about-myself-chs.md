@@ -11,7 +11,51 @@ toc: true
 toc_sticky: true
 ---
 
-A variety of common markup showing how the theme styles them.
+我是一名有着丰富软件开发经验，并且有科研背景的从业者。目前在寻找一份高级软件工程师或者研发工程师的职位。
+
+## 硬技能
+
+### 流利的英语
+
+### 数据库管理
+
+### 编程语言 (C++, Python, Java, MATLAB)
+
+## 软技能
+
+### 团队协作
+
+### 解决问题
+Attention to detail
+
+Collaboration
+
+Communication
+
+Patience
+
+Research
+
+### 批判性思维
+
+### 强烈的学习愿望
+
+### 开放性思维
+
+### 有效沟通
+
+### 领导力
+Ability to teach and mentor
+
+Flexibility
+
+Risk-taking
+
+Team building
+
+Time management
+
+
 
 ## Header two
 
