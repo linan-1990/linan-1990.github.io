@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Nan Li's personal site.
 twitter_username: username
 github_username: linan-1990
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: dark #air contrast default dirt neon
 search: true
 
 # Build settings
@@ -108,7 +108,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:

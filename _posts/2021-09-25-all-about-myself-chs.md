@@ -1,9 +1,9 @@
 ---
 title: "关于我自己 - 为什么我值得被雇佣"
 header:
-  teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
+  teaser: #"assets/images/markup-syntax-highlighting-teaser.jpg"
 categories:
-  - blog
+  - Blog
 tags:
   - 简历
   - 个人经历

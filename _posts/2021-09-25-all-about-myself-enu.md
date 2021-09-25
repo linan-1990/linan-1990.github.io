@@ -1,9 +1,9 @@
 ---
 title: "All About Myself - Why You Should Hire Me"
 header:
-  teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
+  teaser: #"assets/images/markup-syntax-highlighting-teaser.jpg"
 categories:
-  - blog
+  - Blog
 tags:
   - CV
   - resume
